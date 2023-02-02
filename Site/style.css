@@ -1,0 +1,15 @@
+html {
+    background-color: cadetblue;
+    font-size: 20px;
+  }
+  
+  ul {
+    background: yellow;
+    padding: 10px;
+    border: 1px solid black;
+  }
+  
+  li {
+    background: greenyellow;
+    margin-left: 20px;
+  }
